@@ -3,7 +3,7 @@ Matlab codes (written in version 2016b) to implement density estimation by inver
 
 You will need the IRtools codes in your directory before using this code. They can be found here https://github.com/jnagy1/IRtools.
 
-Further descriptions of the codes are given in the code files in the main zip.
+Further descriptions of the codes are given in the code files in the main zip. The codes given here are to implement the algorithms proposed in https://arxiv.org/pdf/1901.03780.pdf. For implementation of the methods compared against, see the referenced literature.
 
 Example 1 (in the main zip) runs algorithm 1 of https://arxiv.org/pdf/1901.03780.pdf with densities 1-4 as described in the same paper.
 
